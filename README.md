@@ -27,7 +27,7 @@ HexaHack CLI is a command line interface tool designed to interact with the Hexa
 
 Run the HexaHack CLI tool:
 ```sh
-python hexahack.py
+python main.py
 ```
 
 ### Commands
