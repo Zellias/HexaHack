@@ -14,13 +14,13 @@ HexaHack CLI is a command line interface tool designed to interact with the Hexa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hexahack-cli.git
+   git clone https://github.com/Zellias/HexaHack.git
    cd hexahack-cli
    ```
 
 2. Install the required dependencies:
    ```sh
-   pip install -r requirements.txt
+   pip install requests termcolor
    ```
 
 ## Usage
